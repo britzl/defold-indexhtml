@@ -14,7 +14,6 @@ gamepads = /builtins/input/default.gamepadsc
 [display]
 width = 640
 height = 1136
-variable_dt = 1
 
 [physics]
 scale = 0.02
